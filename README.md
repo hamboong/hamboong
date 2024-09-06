@@ -3,7 +3,7 @@
 
 
 
-I enjoy Python, Data Analytics **CREATIVE**<br>
+I enjoy Python, Data Analytics
 
 
 
