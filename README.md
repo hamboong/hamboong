@@ -7,7 +7,7 @@ I enjoy Python, Js framework, java and anything **CREATIVE**<br>
 
 
 
-[![Gmail Badge](https://img.shields.io/badge/-lgsgst5613@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lgsgst5613@gmail.com)](mailto:lgsgst5613@gmail.com) <a href="https://www.instagram.com/h._.juicy/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flgsgst5613&count_bg=%23C1357C&title_bg=%23AD2D2D&icon=spotlight.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+[![Gmail Badge](https://img.shields.io/badge/jadu1jadu@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lgsgst5613@gmail.com)](mailto:lgsgst5613@gmail.com) <a href="https://www.instagram.com/h._.juicy/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flgsgst5613&count_bg=%23C1357C&title_bg=%23AD2D2D&icon=spotlight.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 
 ## Technologies I Love
