@@ -9,6 +9,12 @@ I enjoy Python, Data Analytics
 
 [![Gmail Badge](https://img.shields.io/badge/jadu1jadu@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadu1jadu@naver.com)](mailto:lgsgst5613@gmail.com) <a href="https://www.instagram.com/h._.juicy/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> 
 
+| 년도|프로젝트명| 깃허브링크 |
+| -- | --- | ----|
+|2023| 신용등급| [링크](www.naver.com)|
+|2024| 대출여부 | [링크](www.naver.com)|
+
+
 ## Technologies I Love
 <!-- <img src="https://i.pinimg.com/originals/dd/be/1f/ddbe1f911d676f198bdfc9b2346ac1e4.gif" width="35px">  -->
 
