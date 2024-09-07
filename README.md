@@ -158,7 +158,15 @@
       <img src="https://img.shields.io/badge/Dense%20Neural%20Networks-0072CE?style=for-the-badge&logo=undefined&logoColor=white" alt="Dense Neural Networks" style="margin: 0 5px;">
     </td>
   </tr>
+  <tr>
+    <td><strong>프로그래밍 언어</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" alt="C" style="margin: 0 5px;">
+    </td>
+  </tr>
 </table>
+
  <br>
  
 ### 📊 GitHub 통계
