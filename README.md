@@ -1,6 +1,6 @@
 <div align="center">
 
-  <![IMAGE](https://github.com/user-attachments/assets/d71f957d-6454-4701-a5b4-73fa77a2c0f3)>
+  ![IMAGE](https://github.com/user-attachments/assets/d71f957d-6454-4701-a5b4-73fa77a2c0f3)
   <h2>Hi there🖐️, I'm Hyunju Kang!</h2>
   <p>🔍 Data Enthusiast | 📊 Data Analyst | 🧠 Problem Solver</p>
   <p>Turning complex data into simple insights and solutions.</p>
