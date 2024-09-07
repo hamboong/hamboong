@@ -21,11 +21,7 @@
 <p align="center">🚀 함께 제 성장 과정을 지켜봐 주시고, 많은 피드백과 조언을 부탁드립니다!</p>
 
 
-
-
-### MY 
-[![Gmail Badge](https://img.shields.io/badge/jadu1jadu@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadu1jadu@naver.com)](mailto:lgsgst5613@gmail.com) <a href="https://www.instagram.com/h._.juicy/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> 
-
+<h2 align="center"> 아래는 진행했던 프로젝트입니다. </h2>
 | 년도|분야|프로젝트명| 깃허브링크 |
 | -- | ---- | ----|-----|
 |2023| 통신, 네트워크 | BLE를 이용한 이동체의 실내 위치 측위 및 가동 범위 통제 시스템 | [링크](https://www.naver.com)|
@@ -38,6 +34,9 @@
 |2024| 데이터분석(머신러닝) | 건강검진 데이터 분석을 통한 건강 점수 도출 및 리스크 관리 | [링크](https://www.naver.com)|
 |2024| 데이터분석(딥러닝) | 회귀 분석과 신경망 모델을 활용한 전력 사용량 예측: K-Fold Cross-Validation을 통한 모델 성능 향상 ||
 |2024| 데이터분석(딥러닝) | 탭트랜스포머를 이용한 분류 분석: 하이퍼파라미터 튜닝을 통한 딥러닝 모델 성능 향상 ||
+
+[![Gmail Badge](https://img.shields.io/badge/jadu1jadu@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadu1jadu@naver.com)](mailto:lgsgst5613@gmail.com) <a href="https://www.instagram.com/h._.juicy/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> 
+
 
 ## Technologies I Love
 <!-- <img src="https://i.pinimg.com/originals/dd/be/1f/ddbe1f911d676f198bdfc9b2346ac1e4.gif" width="35px">  -->
