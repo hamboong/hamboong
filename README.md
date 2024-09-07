@@ -10,7 +10,7 @@ I enjoy Python, Data Analytics
 [![Gmail Badge](https://img.shields.io/badge/jadu1jadu@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadu1jadu@naver.com)](mailto:lgsgst5613@gmail.com) <a href="https://www.instagram.com/h._.juicy/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> 
 
 | 년도|분야|프로젝트명| 깃허브링크 |
-| -- | --- | ----|-----|
+| -- | ---- | ----|-----|
 |2023| 통신, 네트워크 | BLE를 이용한 이동체의 실내 위치 측위 및 가동 범위 통제 시스템 | [링크](https://www.naver.com)|
 |2023| IT 아이디어 기획 | IMBank 자사앱 개선을 위한, 마이데이터를 활용한 금융 목적 달성 도우미 서비스 | [링크](https://www.naver.com)|
 |2024| 데이터분석(통계분석) | 은행 고객 맞춤형 대출을 통한 연체율 하락 | [링크](https://www.naver.com)|
