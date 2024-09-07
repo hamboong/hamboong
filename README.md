@@ -110,82 +110,21 @@
   </tr>
 </table>
 
+## GitHub 통계
+<p align="center">
+  <a href="https://github.com/hamboong">
+    <img src="https://github-readme-stats.vercel.app/api?username=hamboong&theme=solarized-light&show_icons=true&hide=contribs,prs&cache_seconds=1800" alt="Hyunju's GitHub stats" />
+  </a>
+  <a href="https://github.com/hamboong">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamboong&layout=compact&theme=solarized-light" alt="Top Langs" />
+  </a>
+</p>
 
 
+##  기타사항
 
-[![Gmail Badge](https://img.shields.io/badge/jadu1jadu@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadu1jadu@naver.com)](mailto:lgsgst5613@gmail.com) <a href="https://www.instagram.com/h._.juicy/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> 
-
-
-
-
-[![DenebLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenebLee&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/DenebLee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deneblee&layout=compact&theme=dracula)](https://github.com/Deneblee)
-
-##  Bio 
-<!-- <img src="https://mblogthumb-phinf.pstatic.net/20160804_209/rlqor6767_1470239181873Gao3p_GIF/2.gif?type=w800" width="35px"> -->
-
-- 🌍 Bloger [Deneb](https://velog.io/@lgsgst5613/)
-- 💬 I love to talking about solution business. Don't hesitate to contact me.
-- 🌱 Learning developing hardwares and serial communication using Python.
-- 🚗 I like to drive without a specific destination.
-- 💻 Too much interest in electronics like Keyboard, Monitor and Apple product!
-
-
-
-### Hi 👋, I'm Eunjung Cho
---- 
-#### ABOUT ME 😄
-I am a student who is passionate about producing results that people can enjoy through data analysis.
-
-#### STUDY 👯
-Currently, I'm studying Deep Learning algorithms through DALC
-
-<!--
-**Eunjung-Cho/Eunjung-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on DALC
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
-#### Introducing DALC 🌙  [DALC STUDY GITHUB](https://github.com/Eunjung-Cho/DALC)
-- DALC is a club of students from Dongduk Women's University who are interested in AI technology and application services.  
-- You could see more details by clicking on the notion icon.
-[![Notion Badge](https://img.shields.io/badge/-Notion-ffd700?logo=notion&logoColor=white&link=https://www.notion.so/Dongduk-AI-Leraning-Crew-e0525781c75345bf944c01119270a9e6)](https://www.notion.so/Dongduk-AI-Leraning-Crew-e0525781c75345bf944c01119270a9e6)
----
-<h3 align="center">:notebook_with_decorative_cover: RECORD :notebook_with_decorative_cover:</h3>
-
-<h3 align="center">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cho-eunjung-16882a129/)](https://www.linkedin.com/in/cho-eunjung-16882a129/)
-[![Blog Badge](https://img.shields.io/badge/-Blog-62e33e?logo=naver&logoColor=white&link=https://blog.naver.com/aza425)](https://blog.naver.com/aza425)
- <a href="https://velog.io/@aza425"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@aza425"/>
-   </br>
-
-<div align="center" style="text-align:center">
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=aza425&tag=객체지향프로그래밍)](https://velog.io/@aza425)  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=aza425)](https://velog.io/@aza425)
-  
-</div>
-
-  
-
----
-<h3 align="center">🛠 TECH STACK 🛠</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-b2e619?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/R-90d5eb?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/MongoDB-32cd32?style=flat-square&logo=mongoDB&logoColor=white"/></a>&nbsp
-  
-
-  [![Eunjung-Cho's github stats](https://github-readme-stats.vercel.app/api?username=Eunjung-Cho&count_private=true&custom_title=Eunjung-Cho's&nbsp;github&nbsp;👀&bg_color=30,ffd700,FFFFF0,e7bd42&title_color=392f31&text_color=392f31)](https://github.com/Eunjung-Cho/github-readme-stats) 
+- 🌱 발표와 의견 교환을 즐기며, 다양한 주제에 대해 열정적으로 이야기하는 것을 좋아합니다.
+- 💬 사람들과의 대화에서 긍정적인 분위기를 유지하며, 상호 존중과 이해를 바탕으로 소통합니다.
+- ❤️ 정직과 신뢰를 바탕으로 인간 관계를 소중히 여기며, 신뢰받는 사람으로 성장하고자 합니다.
+- 🤝 협력과 상호 존중을 통해 긍정적인 팀워크를 이루는 것을 중요하게 생각합니다.
+- 🌟 끊임없이 자기계발을 추구하며, 새로운 도전과 경험을 소중히 여깁니다.
