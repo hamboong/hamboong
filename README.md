@@ -19,24 +19,26 @@
 <p align="center">더 나아가 금융 분야에서의 데이터 분석 역량을 더욱 강화해 나가겠습니다.</p>
 
 <p align="center">🚀 함께 제 성장 과정을 지켜봐 주시고, 많은 피드백과 조언을 부탁드립니다!</p>
+ <br>
+ <br>
 
-
-<h2 align="center"> 아래는 진행했던 프로젝트입니다. </h2>
 </div> 
 
 
+## 프로젝트
 | 년도|분야|프로젝트명| 깃허브링크 |
-| -- | ---- | ----|-----|
+| -- | --- | ----|-----|
 |2023| 통신, 네트워크 | BLE를 이용한 이동체의 실내 위치 측위 및 가동 범위 통제 시스템 | [링크](https://www.naver.com)|
-|2023| IT 아이디어 기획 | IMBank 자사앱 개선을 위한, 마이데이터를 활용한 금융 목적 달성 도우미 서비스 | [링크](https://www.naver.com)|
-|2024| 데이터분석(통계분석) | 은행 고객 맞춤형 대출을 통한 연체율 하락 | [링크](https://www.naver.com)|
-|2024| 데이터분석(통계분석) | 인도의 지역적 특성을 반영한 맞춤형 중고차 플랫폼 제공으로 자사의 이익 극대화 | [링크](https://www.naver.com)|
-|2024| 데이터분석(통계분석) | 고객의 특성을 반영한 판매 전략 수립으로 자사의 매출 증대 | [링크](https://www.naver.com)|
-|2024| 데이터분석(머신러닝) |태양광 패널 데이터 분석을 통한 모델별 성능 파악 및 선정| [링크](https://www.naver.com)|
-|2024| 데이터분석(머신러닝) | 주식데이터 머신러닝 분석으로 저평가된 주식 종목 선정 | [링크](https://www.naver.com)|
-|2024| 데이터분석(머신러닝) | 건강검진 데이터 분석을 통한 건강 점수 도출 및 리스크 관리 | [링크](https://www.naver.com)|
-|2024| 데이터분석(딥러닝) | 회귀 분석과 신경망 모델을 활용한 전력 사용량 예측: K-Fold Cross-Validation을 통한 모델 성능 향상 ||
-|2024| 데이터분석(딥러닝) | 탭트랜스포머를 이용한 분류 분석: 하이퍼파라미터 튜닝을 통한 딥러닝 모델 성능 향상 ||
+|2023| IT 아이디어 기획| IMBank 자사앱 개선을 위한, 마이데이터를 활용한 금융 목적 달성 도우미 서비스 기획 | [링크](https://www.naver.com)|
+|2024| 데이터 통계 분석| 은행 고객 맞춤형 대출을 통한 자사 연체율 하락 | [링크](https://www.naver.com)|
+|2024| 데이터 통계 분석| 인도의 지역적 특성을 반영한 맞춤형 중고차 플랫폼 제공으로 자사의 이익 극대화 | [링크](https://www.naver.com)|
+|2024| 데이터 통계 분석| 이커머스사 고객 특성을 반영한 판매 전략 수립으로 자사의 매출 증대 | [링크](https://www.naver.com)|
+|2024| 데이터 머신러닝 분석 |태양광 패널 데이터 분석을 통한 ML 모델별 성능 파악 및 최종 모델 선정| [링크](https://www.naver.com)|
+|2024| 데이터 머신러닝 분석 | 주식데이터 머신러닝 분석으로 저평가된 주식 종목 선정 | [링크](https://www.naver.com)|
+|2024| 데이터 머신러닝 분석 | 건강검진 데이터 분석을 통한 건강 점수 도출 및 리스크 관리 | [링크](https://www.naver.com)|
+|2024| 데이터 딥러닝 분석 | 회귀 분석과 신경망 모델을 활용한 전력 사용량 예측: K-Fold Cross-Validation을 통한 모델 성능 향상 ||
+|2024| 데이터 딥러닝 분석 | 탭트랜스포머를 이용한 분류 분석: 하이퍼파라미터 튜닝을 통한 딥러닝 모델 성능 향상 ||
+
 
 [![Gmail Badge](https://img.shields.io/badge/jadu1jadu@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadu1jadu@naver.com)](mailto:lgsgst5613@gmail.com) <a href="https://www.instagram.com/h._.juicy/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> 
 
