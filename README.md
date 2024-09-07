@@ -8,8 +8,7 @@
 
 
 ---
-### INTRODUCE 
-I am a student who finds great interest in solving complex problems through data analysis and providing actionable insights to support decision-making.
+
 
 ### MY 
 [![Gmail Badge](https://img.shields.io/badge/jadu1jadu@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadu1jadu@naver.com)](mailto:lgsgst5613@gmail.com) <a href="https://www.instagram.com/h._.juicy/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> 
