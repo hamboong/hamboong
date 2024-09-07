@@ -19,6 +19,8 @@ I enjoy Python, Data Analytics
 |2024| 데이터분석(머신러닝) |태양광 패널 데이터 분석을 통한 모델별 성능 파악 및 선정| [링크](https://www.naver.com)|
 |2024| 데이터분석(머신러닝) | 주식데이터 머신러닝 분석으로 저평가된 주식 종목 선정 | [링크](https://www.naver.com)|
 |2024| 데이터분석(머신러닝) | 건강검진 데이터 분석을 통한 건강 점수 도출 및 리스크 관리 | [링크](https://www.naver.com)|
+|2024| 데이터분석(딥러닝) | 회귀 분석과 신경망 모델을 활용한 전력 사용량 예측: K-Fold Cross-Validation을 통한 모델 성능 향상 ||
+|2024| 데이터분석(딥러닝) | 탭트랜스포머를 이용한 분류 분석: 하이퍼파라미터 튜닝을 통한 딥러닝 모델 성능 향상 ||
 
 ## Technologies I Love
 <!-- <img src="https://i.pinimg.com/originals/dd/be/1f/ddbe1f911d676f198bdfc9b2346ac1e4.gif" width="35px">  -->
