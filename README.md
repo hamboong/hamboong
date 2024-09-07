@@ -1,9 +1,7 @@
-# Hi  I'm HyunjuKang
+### Hi 👋, I'm Hyunju Kang
 <!-- <img src="https://i.pinimg.com/originals/e2/b7/da/e2b7da6bc749ba2d7ebdfda28fac6009.gif" width="40px"> -->
 
-
-
-I enjoy Python, Data Analytics
+I am a student who finds great interest in solving complex problems through data analysis and providing actionable insights to support decision-making.
 
 
 
