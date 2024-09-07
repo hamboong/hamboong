@@ -2,14 +2,7 @@
   <img src="https://github.com/yourusername/yourimage.jpg" width="200" />
   <h2>Hi there, I'm [Your Name]!</h2>
   <p>🔍 Data Enthusiast | 📊 Data Analyst | 🧠 Problem Solver</p>
-  <p>Exploring the world through data and insights.</p>
-</div>
-<div align="center">
-  <img src="https://github.com/yourusername/yourimage.jpg" width="200" />
-  <h2>Hello, I'm [Your Name]!</h2>
-  <p>🌟 Passionate Data Analyst</p>
   <p>Turning complex data into simple insights and solutions.</p>
-  <p>🚀 Let's explore data together!</p>
 </div>
 
 
