@@ -188,7 +188,7 @@
 - ❤️ 정직과 신뢰를 바탕으로 인간 관계를 소중히 여기며, 신뢰받는 사람으로 성장하고자 합니다.
 - 🤝 협력과 상호 존중을 통해 긍정적인 팀워크를 이루는 것을 중요하게 생각합니다.
 - 🌟 끊임없이 자기계발을 추구하며, 새로운 도전과 경험을 소중히 여깁니다.
-- 🥄 소소한 취미로, 음식을 먹고 기록하는 취미가 있습니다. 궁금하신 분은 아래의 인스타그램 한 번 들러주시면 감사하겠습니다 😊
+- 🥄 소소한 취미로, 음식을 먹고 SNS에 기록하고 있습니다. 궁금하신 분은 아래의 인스타그램 한 번 들러주시면 감사하겠습니다 😊
 
 ### 📸 SNS  
 - 인스타그램 먹스타 계정 : <a href="https://www.instagram.com/daegu._.yum/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> 
