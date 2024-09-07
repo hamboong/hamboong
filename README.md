@@ -1,13 +1,12 @@
 <div align="center">
   <img src="https://github.com/yourusername/yourimage.jpg" width="200" />
-  <h2>Hi there, I'm [Your Name]!</h2>
+  <h2>Hi there🖐️, I'm Hyunju Kang!</h2>
   <p>🔍 Data Enthusiast | 📊 Data Analyst | 🧠 Problem Solver</p>
   <p>Turning complex data into simple insights and solutions.</p>
   <p>🚀 "Let's explore my data analysis together!"</p>
 </div>
 
 
-##  🔥Hi🖐️, I'm Hyunju Kang
 ---
 ### INTRODUCE 
 I am a student who finds great interest in solving complex problems through data analysis and providing actionable insights to support decision-making.
