@@ -1,5 +1,5 @@
 ###  🔥Hi, I'm Hyunju Kang
-<!-- <img src="https://mblogthumb-phinf.pstatic.net/20160804_209/rlqor6767_1470239181873Gao3p_GIF/2.gif?type=w800" width="35px"> -->
+---
 
 I am a student who finds great interest in solving complex problems through data analysis and providing actionable insights to support decision-making.
 
