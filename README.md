@@ -40,23 +40,72 @@
 |2024| 데이터 딥러닝 분석 | 탭트랜스포머를 이용한 분류 분석: 하이퍼파라미터 튜닝을 통한 딥러닝 모델 성능 향상 ||
 
 
+## 교육
+- <mark><strong>영남대학교 정보통신공학과 학사 졸업</strong></mark> (2020.03.~2024.02.)
+- <mark><strong>iM DiGital Banker Academy 데이터 분석전문가 양성과정</strong></mark> (2024.06.~ing / 2024.12.수료 예정)
+- <mark><strong>인공지능 중급과정</strong></mark> (2023.10.~2023.11./포항테크노파크)
+- <mark><strong>디지털 인재 양성과정</strong></mark> (2023.02.~2023.03./메가존클라우드 IT 평생교육원)
+
+## 경험
+- 
+
+## 자격증
+- 
+
+
+## Tech Stack
+
+<table>
+  <tr>
+    <th>프로젝트명</th>
+    <th>기술 스택</th>
+  </tr>
+  <tr>
+    <td><strong>데이터 분석 도구</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" alt="Pandas" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" style="margin: 0 5px;">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>시각화 도구</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn" style="margin: 0 5px;">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>머신러닝</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white" alt="Scikit-learn" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/AdaBoost-FFB600?style=for-the-badge&logo=undefined&logoColor=white" alt="AdaBoost" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Random%20Forest-00A859?style=for-the-badge&logo=undefined&logoColor=white" alt="Random Forest" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Logistic%20Regression-0072CE?style=for-the-badge&logo=undefined&logoColor=white" alt="Logistic Regression" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Linear%20Regression-0072CE?style=for-the-badge&logo=undefined&logoColor=white" alt="Linear Regression" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/XGBoost-FF9900?style=for-the-badge&logo=XGBoost&logoColor=white" alt="XGBoost" style="margin: 0 5px;">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>딥러닝</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/LSTM-FF6F00?style=for-the-badge&logo=undefined&logoColor=white" alt="LSTM" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/TabTransformer-8C8C8C?style=for-the-badge&logo=undefined&logoColor=white" alt="TabTransformer" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Dense%20Neural%20Networks-0072CE?style=for-the-badge&logo=undefined&logoColor=white" alt="Dense Neural Networks" style="margin: 0 5px;">
+    </td>
+  </tr>
+</table>
+
+
+
+
 [![Gmail Badge](https://img.shields.io/badge/jadu1jadu@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadu1jadu@naver.com)](mailto:lgsgst5613@gmail.com) <a href="https://www.instagram.com/h._.juicy/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> 
 
 
-## Technologies I Love
-<!-- <img src="https://i.pinimg.com/originals/dd/be/1f/ddbe1f911d676f198bdfc9b2346ac1e4.gif" width="35px">  -->
 
-- Machine Learning
-- Image Processing
-- Java 
-- Server
-- Use New FrameWork for my Toy Project 
-
-## <img src="https://t1.daumcdn.net/cfile/tistory/244A0F475830735605" width="35px"> Programming Languages & Platforms
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"><img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=Postgresql&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white">
-
-</p>
 
 [![DenebLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenebLee&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/DenebLee)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deneblee&layout=compact&theme=dracula)](https://github.com/Deneblee)
