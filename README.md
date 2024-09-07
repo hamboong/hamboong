@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img src="https://github.com/yourusername/yourimage.jpg" width="200" />
+  <h2>Hi there, I'm [Your Name]!</h2>
+  <p>🔍 Data Enthusiast | 📊 Data Analyst | 🧠 Problem Solver</p>
+  <p>Exploring the world through data and insights.</p>
 </div>
+
 
 ##  🔥Hi🖐️, I'm Hyunju Kang
 ---
