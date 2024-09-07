@@ -9,11 +9,16 @@ I enjoy Python, Data Analytics
 
 [![Gmail Badge](https://img.shields.io/badge/jadu1jadu@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadu1jadu@naver.com)](mailto:lgsgst5613@gmail.com) <a href="https://www.instagram.com/h._.juicy/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> 
 
-| 년도|프로젝트명| 깃허브링크 |
-| -- | --- | ----|
-|2023| 신용등급| [링크](https://www.naver.com)|
-|2024| 대출여부 | [링크](https://www.naver.com)|
-
+| 년도|분야|프로젝트명| 깃허브링크 |
+| -- | --- | ----|-----|
+|2023| 통신, 네트워크 | BLE를 이용한 이동체의 실내 위치 측위 및 가동 범위 통제 시스템 | [링크](https://www.naver.com)|
+|2023| IT 아이디어 기획 | IMBank 자사앱 개선을 위한, 마이데이터를 활용한 금융 목적 달성 도우미 서비스 | [링크](https://www.naver.com)|
+|2024| 통계 분석 || [링크](https://www.naver.com)|
+|2024| 통계 분석 | 인도의 지역적 특성을 반영한 맞춤형 중고차 플랫폼 제공으로 자사의 이익 극대화 | [링크](https://www.naver.com)|
+|2024| 통계 분석 | 고객의 특성을 반영한 판매 전략 수립으로 자사의 매출 증대 | [링크](https://www.naver.com)|
+|2024| 머신러닝 |태양광 패널 데이터 분석을 통한 모델별 성능 파악 및 선정| [링크](https://www.naver.com)|
+|2024| 머신러닝 | 주식데이터 머신러닝 분석으로 저평가된 주식 종목 선정 | [링크](https://www.naver.com)|
+|2024| 머신러닝 | 건강검진 데이터 분석을 통한 건강 점수 도출 및 리스크 관리 | [링크](https://www.naver.com)|
 
 ## Technologies I Love
 <!-- <img src="https://i.pinimg.com/originals/dd/be/1f/ddbe1f911d676f198bdfc9b2346ac1e4.gif" width="35px">  -->
