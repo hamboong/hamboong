@@ -38,7 +38,7 @@
 | 2024 | 데이터 머신러닝 분석 | 태양광 패널 데이터 분석을 통한 ML 모델별 성능 파악 및 최종 모델 선정 | [링크](https://www.naver.com) |
 | 2024 | 데이터 머신러닝 분석 | 주식 데이터중 저평가된 주식 종목군 판별 및 머신러닝 분석으로 상승 예측 종목 선정 | [링크](https://www.naver.com) |
 | 2024 | 데이터 머신러닝 분석 | 건강검진 데이터 분석을 통한 건강 점수 도출 및 리스크 관리 | [링크](https://www.naver.com) |
-| 2024 | 데이터 딥러닝 분석 | 회귀 분석과 신경망 모델을 활용한 전력 사용량 예측: K-Fold Cross-Validation을 통한 모델 성능 향상 | [링크](https://www.naver.com) |
+| 2024 | 데이터 딥러닝 분석 | 회귀 분석과 DNN 모델을 활용한 전력 사용량 예측: K-Fold Cross-Validation을 통한 모델 성능 향상 |  [🖱️CLICK!](https://github.com/hamboong/Regression_DL_Project)|
 | 2024 | 데이터 딥러닝 분석 | 탭트랜스포머를 이용한 분류 분석: 하이퍼파라미터 튜닝을 통한 딥러닝 모델 성능 향상 | [링크](https://www.naver.com) |
  <br>
  
