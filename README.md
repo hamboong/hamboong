@@ -129,8 +129,9 @@
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" alt="Pandas" style="margin: 0 5px;">
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy" style="margin: 0 5px;">
       <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/MySQL-00007A?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" style="margin: 0 5px;">
     </td>
-  </tr>
+  
   <tr>
     <td><strong>시각화 도구</strong></td>
     <td>
