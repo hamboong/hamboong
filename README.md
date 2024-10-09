@@ -41,6 +41,7 @@
 | 2024 | 데이터 딥러닝 분석 | 회귀 분석과 DNN 모델을 활용한 전력 사용량 예측: K-Fold Cross-Validation을 통한 모델 성능 향상 |  [🖱️CLICK!](https://github.com/hamboong/Regression_DL_Project)|
 | 2024 | 데이터 딥러닝 분석 | 탭트랜스포머를 이용한 분류 분석: 하이퍼파라미터 튜닝을 통한 딥러닝 모델 성능 향상 | 업로드X |
 | 2024 | 데이터 딥러닝 분석 | 딥러닝 분석을 통한 신용등급 분류와, 고객 경향에 따른 마케팅 제안| 업로드X |
+| 2024 | 스크래핑 & 추천시스템 | 무신사 스탠다드 의류 추천 시스템 | [🖱️CLICK!](https://github.com/hamboong/musinsa-standard_recommendation-system)|
  <br>
  
 ### 📚 교육
