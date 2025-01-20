@@ -46,7 +46,7 @@
  
 ### 📚 교육
 - <mark><strong>영남대학교 정보통신공학과 학사 졸업</strong></mark> (2020.03.~2024.02.)
-- <mark><strong>iM DiGital Banker Academy 데이터 분석전문가 양성과정</strong></mark> (2024.06.~ing / 2024.12.수료 예정)
+- <mark><strong>iM DiGital Banker Academy 데이터 분석전문가 양성과정</strong></mark> (2024.06.~2024.12./iM뱅크)
 - <mark><strong>인공지능 중급과정</strong></mark> (2023.10.~2023.11./포항테크노파크)
 - <mark><strong>디지털 인재 양성과정</strong></mark> (2023.02.~2023.03./메가존클라우드 IT 평생교육원)
  <br>
@@ -112,6 +112,7 @@
 - ADsP (2023.11. / 한국데이터산업진흥원)
 - 컴퓨터활용능력 2급 (2023.11. / 대한상공회의소)
 - 오픽 IM2 (IH 따고싶어잉)
+- GA4
 - ~~정처기 실기 따야함~~
 - ~~빅분기 실기 따야함..~~
 - ~~SQLD 빨리 따야함...~~
