@@ -6,9 +6,9 @@
  
 <h2 align="center">안녕하세요, 강현주입니다😊</h2>
 
-<p align="center">저는 <strong>금융권 데이터 분석 직렬 취업</strong>을 목표로 하고 있습니다.</p>
+<p align="center">저는 <strong>데이터 분석 및 마케팅 직렬 취업</strong>을 목표로 하고 있습니다.</p>
 
-<p align="center">금융 분야에서 데이터 분석의 중요성이 날로 커지고 있는 만큼,</p>
+<p align="center">데이터 분석의 중요성이 날로 커지고 있는 만큼,</p>
 
 <p align="center"><strong>데이터의 정확한 분석과 인사이트 도출</strong>이 핵심이라는 것을 알고 있습니다.</p>
 
