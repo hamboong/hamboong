@@ -6,7 +6,7 @@
  
 <h2 align="center">안녕하세요, 강현주입니다😊</h2>
 
-<p align="center">저는 <strong>데이터 분석 및 마케팅 직렬 취업</strong>을 목표로 하고 있습니다.</p>
+<p align="center">저는 <strong>데이터 분석 및 기획/마케팅 직렬 취업</strong>을 목표로 하고 있습니다.</p>
 
 <p align="center">데이터 분석의 중요성이 날로 커지고 있는 만큼,</p>
 
