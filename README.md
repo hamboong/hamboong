@@ -199,5 +199,5 @@
 
 ### 📸 SNS  
 - 인스타그램 먹스타 계정 : <a href="https://www.instagram.com/daegu._.yum/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> 
-- 인스타그램 일상 계정 : <a href="https://www.instagram.com/h._.juicy/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> 
+- 인스타그램 일상 계정 : <a href="https://www.instagram.com/hxjuicy/"><img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&&locoColor=white"/></a> 
 
